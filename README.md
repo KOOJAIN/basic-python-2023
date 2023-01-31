@@ -20,8 +20,25 @@ print('Hello, Python!!') # 콘솔출력 함수
     - 변수
     - 자료형
     - 연산자
-    - 흐름제어
 
+```python
+# 변수
+val = 1
+
+# 자료형
+print(type(val)) # <class 'int'>
+
+# 문자열 포맷팅
+print("I'm so happy {0} to you, {1}!!".format(2, 'Hey'))
+# 최신식 문자열 포맷팅
+preword = 3
+sayHello = 'Hey'
+print(f"I'm so happy {preword} to you, {sayHello}!!")
+
+pi = 3.141592
+print(f'파이는 {pi}입니다.')        # 파이는 3.141592입니다.
+print(f'파이는 {pi:0.2f}입니다.')   # 파이는 3.14입니다.
+print(f'파이는 {pi:10.3f}입니다.')  # 파이는          3.142입니다.
 
 
 
