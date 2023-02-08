@@ -93,6 +93,8 @@ print(f'파이는 {pi:10.3f}입니다.')  # 파이는          3.142입니다.
         - 기상청 오늘의 날씨 크롤링
         - 데이터포털 OpenAPI 크롤링
         - BeautifulSoup 크롤링
+        ![image](https://user-images.githubusercontent.com/123913898/217467573-3593672e-1a8e-4776-bda8-69271acb80c3.png)
+
 
         
 
