@@ -110,5 +110,9 @@ print(f'파이는 {pi:10.3f}입니다.')  # 파이는          3.142입니다.
 1. 파이썬 응용
     - GUI 개발
         - PyQt 위젯 계속
+        - PyQt 다이얼로그
 
+![실행화면](https://github.com/KOOJAIN/studypython2023/blob/55cad554dd87678e19b36d7b14fae69e9696ab11/images/dialog.png)
+
+PyQt 실행화면
 
